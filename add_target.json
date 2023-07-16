@@ -1,0 +1,13 @@
+{
+  "targets": [
+    {
+      "info": {
+        "length": 15,
+        "hashes": {
+          "blake2b-256": "e003ec4d3d86003bad67a4eaf7b320874d3bdef7c66d30b2f1aa2d3f69cee6f1"
+        }
+      },
+      "path": "myfile.txt"
+    }
+  ]
+}
